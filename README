@@ -15,7 +15,9 @@ If the contract knows ahead of time that the uEth will be permanently locked, it
 Other uEth can only be minted through depositing Eth.
 Thus all circulating uEth is 1:1 backed by Eth.
 
+Feel free to farm the Eth/uEth pair or run arbitration bots between the uEth wrapper and the Uniswap pair.
+
 Mainnet
 ueth:          0x395C8dB957d743a62Ac3aAAa4574553bcf2380b3
 ulocker:       0x7cA5FB20FDD54867e250436c4A9686ceeB88A18B
-uEth/Eth pair: 
+uEth/Eth pair: 0x952a51ca1e6267bcbca6212d2c3a67abf5195017
